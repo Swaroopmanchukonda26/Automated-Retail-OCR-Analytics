@@ -9,7 +9,7 @@ The application uses a local SQLite relational layer with an enforced One-to-Man
 
 ## 🛠️ Software Stack & Core Modules
 * **Backend Architecture:** Python 3.x, SQLite3
-* **Web Serving UI Framework:** Flask (Responsive Dark-Themed Grid Layout)
+* **Web Serving UI Framework:** Flask (Responsive Dark-Themed Grid Layout)![BizAnalytics Dashboard View](dashboard_preview.png)
 * **Testing & Data Models:** Procedural automation logic evaluating line-by-line item consistency ($Quantity \times Unit\ Price = Line\ Total$).
 
 ## 🚀 How to Run the Web Dashboard Locally
